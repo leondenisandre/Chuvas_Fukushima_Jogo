@@ -1,0 +1,4 @@
+pontos;ricardo;17
+pontos;andre;7
+pontos;dennys;-3
+pontos;marcus;-3
